@@ -21,6 +21,7 @@ AICC 솔루션 기업에서 **2년 3개월간 4개 고객사**의 금융·통신
 - 🎓 한국공학대학교 AI소프트웨어학과 공학사 · **최우등 조기졸업** · 전공 4.35/4.5
 - 🛡 KISIA 시큐리티아카데미 8기 안랩트랙 (2026.06 ~ 09, 진행 중)
 - 📜 정보보안기사·정보처리기사 필기 합격 · 리눅스마스터 2급 1차 합격 · JLPT N2
+- ✍️ 학습 기록: [기술 블로그](BLOG_URL)
 - 📫 **ei228555@gmail.com**
 
 > 화면에서 감추는 것과 데이터를 주지 않는 것은 다르다고 생각합니다. 권한은 UI가 아니라 **조회 쿼리 단계**에서 막아야 한다는 관점으로 개발해왔습니다.
@@ -255,22 +256,33 @@ Expo App ──SSE── API Server (Express 5)
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!--
+  ⚠️ GitHub Stats 카드는 공개 Vercel 인스턴스가 rate limit / 503으로 자주 깨져서 기본 제외했습니다.
+  자체 Vercel 인스턴스를 배포했다면 아래 두 줄의 주석을 풀고
+  github-readme-stats.vercel.app 을 본인 인스턴스 주소로 바꾸세요.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lxxexxbxx&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=0891b2&icon_color=06b6d4" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxxexxbxx&layout=compact&hide_border=true&langs_count=8&title_color=0891b2" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lxxexxbxx&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=0891b2&icon_color=06b6d4&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxxexxbxx&layout=compact&hide_border=true&langs_count=8&title_color=0891b2&cache_seconds=86400" />
+-->
 
-</div>
+회사 프로젝트는 사내 저장소에서 진행해 커밋 통계에 반영되지 않습니다. 개인 프로젝트 코드는 아래 저장소에서 확인하실 수 있습니다.
+
+- **WithMe (내 편)** — 큐 기반 비동기 처리 백엔드 · `TypeScript` `BullMQ` `Redis`
+- **YozmIn (요즘사람)** — RAG 챗봇 기반 트렌드 큐레이션 앱 · `React Native` `pgvector`
 
 ---
+
+## 🔗 Links
 
 <div align="center">
 
 <a href="mailto:ei228555@gmail.com"><img src="https://img.shields.io/badge/ei228555@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://notion-url-shortener.vercel.app/ToN7Wfl"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
+<a href="https://lxxexxbxx.tistory.com/"><img src="https://img.shields.io/badge/Tech_Blog-EB531F?style=for-the-badge&logo=tistory&logoColor=white" /></a>
 
-<br><br>
+</div>
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0891b2,100:1e3a8a&height=120&section=footer" width="100%" />
 
-</div>
