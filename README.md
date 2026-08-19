@@ -1,17 +1,14 @@
-<!--
-  ┌──────────────────────────────────────────────────────────────┐
-  │  채우고 시작하세요 (전체 치환)                                 │
-  │   YOUR_GITHUB_ID → lxxexxbxx                          │
-  │   BLOG_URL       → https://lxxexxbxx.tistory.com/                     │
-  │   NOTION_URL     → https://notion-url-shortener.vercel.app/ToN7Wfl                     │
-  └──────────────────────────────────────────────────────────────┘
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:0891b2,100:06b6d4&height=210&section=header&text=Lee%20Eunbin&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20%C2%B7%20%EB%B3%B4%EC%95%88%EC%9D%84%20%EC%95%84%EB%8A%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:0891b2,100:06b6d4&height=210&section=header&text=Lee%20Eunbin&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer&descAlignY=58&descSize=20" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=0891B2&center=true&vCenter=true&width=620&lines=%EC%99%9C+%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%EC%A7%80%EA%B9%8C%EC%A7%80+%EC%84%A4%EA%B3%84%ED%95%98%EB%8A%94+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90;%EC%BD%94%EB%93%9C+%EB%A0%88%EB%B2%A8%EC%97%90%EC%84%9C+%EB%B3%B4%EC%95%88%EC%9D%84+%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94+%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1400&color=0891B2&center=true&vCenter=true&width=560&lines=%EB%B3%80%EB%8F%99%EC%97%90%EB%8A%94+%EC%97%B4%EB%A0%A4+%EC%9E%88%EA%B2%8C%2C+%EC%9D%91%EB%8B%B5%EC%97%90%EB%8A%94+%EC%A7%80%EC%B2%B4+%EC%97%86%EA%B2%8C" alt="typing" />
+
+<br>
+
+![Backend](https://img.shields.io/badge/Backend-1e3a8a?style=flat-square)
+![Security](https://img.shields.io/badge/Security-0891b2?style=flat-square)
+![Finance_Domain](https://img.shields.io/badge/Finance_Domain-06b6d4?style=flat-square)
 
 </div>
 
@@ -19,136 +16,238 @@
 
 ## 👋 About
 
-금융·통신 대기업에서 **2년간 백엔드를 개발·운영**했고, 지금은 취약점을 코드 레벨에서 읽어내는 **보안 역량**을 더하고 있습니다. 장애를 추적하듯 요청 흐름을 되짚고, 가장 빠른 우회책 대신 **근본 원인을 제거하는 설계**를 선호합니다.
+AICC 솔루션 기업에서 **2년 3개월간 4개 고객사**의 금융·통신 프로젝트를 백엔드로 개발·운영했습니다. 조건과 채널이 계속 바뀌는 요구를 겪으며 **다음 변경 시 수정 범위가 최소가 되는 구조**를 고민해왔고, 인터넷이 제한된 폐쇄망에서 공식 문서·소스·로그만으로 원인을 찾으며 기본기를 다졌습니다.
 
-- 🧩 백엔드: 인증·인가 설계, 쿼리 성능 최적화, 폐쇄망/운영망 배포까지 실서비스 경험
-- 🛡 보안: KISIA 시큐리티 아카데미 8기 안랩트랙(CERT) 수료 · 정보보안기사 필기 합격(실기 준비 중)
-- ⚙️ 최근 진행 중인 작업: SAST 도구, 자동 취약점 진단 플랫폼 백엔드, 위협 인텔리전스 수집 파이프라인
+- 🎓 한국공학대학교 AI소프트웨어학과 공학사 · **최우등 조기졸업** · 전공 4.35/4.5
+- 🛡 KISIA 시큐리티아카데미 8기 안랩트랙 (2026.06 ~ 09, 진행 중)
+- 📜 정보보안기사·정보처리기사 필기 합격 · 리눅스마스터 2급 1차 합격 · JLPT N2
 - 📫 **ei228555@gmail.com**
 
-> **개발자가 왜 보안을?** — 개발할 때 인증·권한을 직접 설계하며 "어떤 요청이 어떤 로그를 남기고 어디서 검증이 빠지는가"를 코드로 이해했습니다. 그 시선을 그대로 백엔드 설계에 되돌려, **처음부터 안전한 서버**를 만드는 것을 지향합니다.
+> 화면에서 감추는 것과 데이터를 주지 않는 것은 다르다고 생각합니다. 권한은 UI가 아니라 **조회 쿼리 단계**에서 막아야 한다는 관점으로 개발해왔습니다.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Language**
-
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
-
 **Backend**
 
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-DC382D?style=flat-square&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-C74634?style=flat-square&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
 **Data**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![Query Optimization](https://img.shields.io/badge/%EC%BF%BC%EB%A6%AC_%EC%B5%9C%EC%A0%81%ED%99%94-334155?style=flat-square)
+![Schema Design](https://img.shields.io/badge/%EC%8A%A4%ED%82%A4%EB%A7%88_%EC%84%A4%EA%B3%84-334155?style=flat-square)
 
-**Infra & Tools**
+**Async & Infra**
 
+![BullMQ](https://img.shields.io/badge/BullMQ-DA2C38?style=flat-square)
+![APScheduler](https://img.shields.io/badge/APScheduler-334155?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**AI · API · Frontend**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-334155?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-334155?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Vue 3](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+---
+
+## 💼 Career
+
+**주식회사 라피치** · 개발3팀 정규직 · AICC 솔루션 기업 (2024.01 ~ 2026.03)
+
+| 기간 | 프로젝트 | 담당 |
+|:--|:--|:--|
+| 2024.01 ~ 2024.07 | 신한금융그룹 AICC NLU 운영 | 4개 그룹사 AI 상담 모델 학습·배포·결함 처리 |
+| 2024.07 ~ 2025.03 | LG U+ ixi-TTS 관리도구 패키징 | 단일 고객사용 도구를 멀티 서비스 패키지로 재설계 |
+| 2025.03 ~ 2025.09 | IBK기업은행 음성봇 아웃바운드 2차 | 권한 체계 · 발송 서비스 · 연동 인터페이스 개발 |
+| 2025.09 ~ 2026.02 | 흥국화재·저축은행 IVR 구축 | API 게이트웨이 개발 및 레거시 이관 |
+| 2026.06 ~ 2026.09 | KISIA 시큐리티아카데미 안랩트랙 | 안랩 CERT 멘토 지도, 웹 취약점 분석·조치 |
 
 ---
 
 ## 🚀 Projects
 
-> 실무 경력 프로젝트와 최근 개인/팀 프로젝트를 함께 정리했습니다. 상세 내용은 [노션 포트폴리오](NOTION_URL)에 있습니다.
+> 상세 내용은 [포트폴리오](https://notion-url-shortener.vercel.app/ToN7Wfl)에 정리했습니다.
 
-| 프로젝트 | 한 줄 소개 | 핵심 기술 | 역할 | 상태 |
-|:--|:--|:--|:--:|:--:|
-| **자동 취약점 진단 플랫폼** | 스캔 요청을 처리하고 결과를 정규화·보고서화하는 백엔드/API | `FastAPI` `PostgreSQL` `Redis` `Docker` | 백엔드 | 🟡 진행 중 |
-| **AnShim** | 로컬 LLM 기반 한국형 컴플라이언스(ISMS-P) SAST 도구 | `Python` `LLM` `Next.js` | 개인 | 🟢 v0.2.0 |
-| **위협 인텔 수집 파이프라인** | 국내외 보안 피드를 매일 수집·요약해 노션에 적재 | `Python` `RSS/API` `Notion` | 개인 | 🟢 운영 중 |
-| **IBK 음성봇 통합관리시스템** | 백엔드 개발 + 쿼리 성능 최적화 | `Spring` `MyBatis` `Oracle` | 백엔드 | ✅ 완료 |
-| **LG U+ TTS 프로젝트** | 폐쇄망·운영망 분리 환경 백엔드 개발/배포 | `Spring` `Bastion/OTP` | 백엔드 | ✅ 완료 |
+| 프로젝트 | 한 줄 소개 | 기술 | 역할 |
+|:--|:--|:--|:--:|
+| **부서별 권한 관리 · 데이터 접근 제어** | 쿼리 단계에서 행 자체를 차단하는 RBAC | `Java` `Spring Boot` `MyBatis` `MySQL` | 설계·구현 전담 |
+| **IBKTalkBridge** | 상담 결과 다채널 발송 서비스 | `Python` `Flask` `APScheduler` `Redis` | 설계·구현 전담 |
+| **통계 조회 성능 개선** | 수만 건 조회 지연 · CPU 과점유 해소 | `MySQL` `MyBatis` `Index` | 단독 |
+| **VAPI** | IVR·EAI 연동 API 게이트웨이 | `Java` `Spring Boot` `Jackson` `WebClient` | 단독 |
+| **YozmIn (요즘사람)** | RAG 챗봇 기반 트렌드 큐레이션 앱 | `React Native` `Supabase` `pgvector` `Gemini` | 5인 팀 **PL** |
+| **WithMe (내 편)** | 큐 기반 비동기 처리 백엔드 | `TypeScript` `Express` `BullMQ` `Redis` `Docker` | 개인 · 단독 |
 
 <br>
 
 <details>
-<summary><b>🟡 자동 취약점 진단 플랫폼 — Backend / API</b></summary>
+<summary><b>🔐 부서별 시나리오 권한 관리 및 데이터 접근 제어</b> — IBK기업은행 음성봇 2차</summary>
 
 <br>
 
-Nuclei 스캐너와 커스텀 진단 스크립트를 하나의 도구로 묶고, 결과를 표준화된 리포트로 만들어내는 플랫폼에서 **백엔드와 API 설계**를 담당하고 있습니다.
+고객센터 부서별로 접근 가능한 상담 시나리오를 분리해야 하는 요구를, **화면에서 항목을 감추는 방식이 아니라 조회 쿼리 단계에서 행 자체가 반환되지 않도록** 구현했습니다.
 
-**설계 포인트**
-- **정규화 Finding 스키마**를 먼저 확정하고, 프론트 응답은 그 위에 얇은 view-model로 얹어 UI 포맷 변경에 백엔드가 흔들리지 않도록 설계
-- **fingerprint 해시**(origin_id + host + port + normalized_path + matcher_name)로 재스캔 시 `fixed / still_vulnerable / new / regression` 4분류를 자동 산출 → 조치 검증 전용 `diff` 엔드포인트 제공
-- 긴 스캔 작업은 **Redis 큐**로 비동기 처리하고, 진행률을 **SSE로 실시간 스트리밍**
-- 사용자 등록 파이썬 스크립트는 **격리 컨테이너**(`--network`, `--read-only`, `--cap-drop=ALL`, non-root, 리소스/타임아웃 제한)에서 `stdin JSON → stdout Finding[]` 계약으로만 실행 → 임의 코드 실행을 안전하게 통제
-- 관계형 워크로드에 맞춰 **PostgreSQL + pgvector** 단일 스토리지로 정형 데이터와 벡터를 함께 처리
-- 협업 병목 최소화를 위해 **OpenAPI 스펙을 먼저 정의**해 프론트/DB 담당자가 목(mock) 기반으로 병행 개발
+```
+로그인 사용자 → 권한 그룹 조회 → 허용 시나리오 ID → 조회 쿼리 필터 → 결과
+```
 
-`OpenAPI-first · 비동기 큐 · SSE · 컨테이너 샌드박싱`
+- 권한 그룹과 시나리오를 매핑하는 **DB 테이블부터 직접 설계**
+- 통합 통계 · 시나리오별 발신 현황 · AI 응답 현황 등 **5개 조회 페이지의 쿼리에 권한 필터 적용**
+- 관리 페이지의 쿼리 · REST API · 화면 로직을 단독 구현
+- 배포 시스템(IDD)과 배포 현황을 동기화해 **배포 완료된 시나리오에만 권한 부여**, 신규 배포 시 마스터 그룹에 자동 부여
+
+`RBAC · 쿼리 레벨 접근 제어 · 스키마 설계`
 
 </details>
 
 <details>
-<summary><b>🟢 AnShim — Local LLM 기반 SAST</b></summary>
+<summary><b>📨 IBKTalkBridge — 상담 결과 다채널 발송 서비스</b> — IBK기업은행 음성봇 2차</summary>
 
 <br>
 
-폐쇄망에서도 동작하도록 **로컬 LLM**을 활용한 한국형 컴플라이언스(ISMS·ISMS-P) 정적분석 도구. CLI와 Next.js 대시보드를 함께 제공합니다.
+```
+콜 결과 DB → 분류 엔진(시나리오 20종+) → 스케줄러(APScheduler) → Redis 중복 차단 → MMS / 메일 / 쪽지
+```
 
-**하이브리드 엔진으로 재설계한 이야기**
-- 초기엔 탐지 전 과정을 LLM으로만 구현 → **실행마다 결과가 달라지고 없는 취약점을 설명하는 오탐**이 반복
-- "진단 도구에 재현성이 없으면 실격"이라는 판단으로 구조 전환: **1차 판단은 룰 기반 엔진**, LLM은 **오탐 제거와 설명**만 담당
-- **회귀 테스트 153건**으로 안정화, ISMS-P 항목 자동 매핑 룰셋 구성
+- **중복 발송 차단** — Redis에 발송 이력 캐시 키를 저장하고 TTL을 당일 자정까지로 설정. 스케줄러 재실행이나 조회 구간이 겹쳐도 같은 안내가 두 번 나가지 않게 처리
+- **영업일 계산** — 공휴일을 조회해 N영업일 전 날짜를 산출. "3영업일 전부터 1영업일 전까지의 무응답 콜" 같은 조건은 단순 날짜 연산으로 불가능
+- **변동에 강한 설계** — 분류 기준이 협의 중 계속 바뀌어, 조건이 추가돼도 수정 범위가 최소가 되도록 분류 로직과 발송 로직 분리
+- **실패 추적** — 외부 발송 시스템 호출에 타임아웃·예외 처리를 두고 결과를 상태값과 함께 기록
 
-> 배운 것 — 새 기술은 판단의 주체가 아니라 보조 수단이어야 하고, 가정 검증 시점을 앞당겨야 몰입이 손실로 이어지지 않는다.
+`#Python #Flask #APScheduler #Redis #MariaDB #SMTP`
 
 </details>
 
 <details>
-<summary><b>🟢 위협 인텔리전스 수집 파이프라인</b></summary>
+<summary><b>⚡ 수만 건 규모 통계 조회 성능 개선</b> — IBK기업은행 음성봇 2차</summary>
 
 <br>
 
-국내외 보안 피드를 매일 자동 수집·요약해 노션 DB에 적재하고 알림을 보내는 파이프라인. **Claude Code Routines**로 스케줄링해 매일 정해진 시각에 동작합니다.
+통계 페이지의 조회 지연과 서버 CPU 과점유를 **쿼리 개선만으로** 해소했습니다.
 
-- 수집처: 국내(KISA 보호나라, KNVD, 보안뉴스) · 취약점(NVD API 2.0, **CISA KEV**, EPSS) · 인텔(ASEC, SANS ISC, Talos 등)
-- **CVSS 7.0+ 필터링**, 9.0+는 상세 정보와 공개 PoC 인덱스 링크까지 첨부
-- **seen.json 상태 파일**로 멱등 처리 → 중복 알림 방지
-- 피드 헬스체크(`--validate`): HTML 응답 / 404 / 오래된 피드까지 구분 진단
+| Before | After |
+|:--|:--|
+| 고객별 마지막 콜 정보를 별도 서브쿼리로 조회 후 결합 | 마지막 콜 정보를 **JOIN 내부에서 한 번에** 처리 |
+| 콜 단위·고객 단위 집계 기준 혼재 → 중복 집계, 불필요한 스캔 | 집계 기준을 고객 단위로 통일, `COUNT DISTINCT` 적용 |
+| `GROUP BY` 컬럼 순서가 인덱스와 불일치 | `GROUP BY`·`SELECT` 컬럼 순서를 **인덱스 구성 순서에 맞춰 정렬** |
+| 미발신·SKIP 건 집계 조건 모호 | 조건 명확화, `LEFT JOIN` + `COALESCE`로 예외 제거 |
 
-`RSS·API 수집 · 멱등 파이프라인 · 스케줄 자동화`
+**결과 — 조회 응답 시간 대폭 단축 · 서버 CPU 과점유 현상 해소**
+
+`#MySQL #MyBatis #Index #Query_Optimization`
 
 </details>
 
 <details>
-<summary><b>✅ IBK 음성봇 통합관리시스템 — 성능 최적화</b></summary>
+<summary><b>🔀 VAPI — IVR·EAI 연동 API 게이트웨이</b> — 흥국화재·저축은행 IVR 구축</summary>
 
 <br>
 
-통계 페이지 응답 지연 이슈에서, 가장 빠른 해결책인 캐싱 대신 **근본 원인**을 택했습니다. 실행계획부터 다시 검토해 **조인 순서와 인덱스 구성을 재설계** → 조치는 더 오래 걸렸지만 데이터가 증가해도 문제가 재발하지 않았습니다.
+```
+IVR 요청 { data: {…} } → VAPI 변환 계층 → EAI 요청 { header: {…}, bizData: { DATA: {…} } }
+```
 
-- MyBatis 파라미터 바인딩으로 **SQL Injection 차단**, RBAC 접근 제어로 수평적 권한상승 차단
-- 취약점 점검 지적사항(Insecure Randomness, Hardcoded Password) 직접 조치
+- **상속 구조** — 전문마다 파라미터는 달라도 공통 처리는 동일해, 공통 요청 DTO를 두고 전문별 DTO가 상속하도록 구현
+- **직렬화 방향 분리** — 수신 시엔 필요하지만 송신 시엔 제외해야 하는 필드가 있어, Jackson의 직렬화·역직렬화를 **필드 단위로 분리 제어**
+- **미지 필드 방어** — 연동 전문이 계속 추가·변경되는 상황이라, 정의되지 않은 키 하나로 전체 요청이 실패하지 않도록 처리
+- **설계서 기반 API 자동 등록 도구** — 22개 시나리오 API를 수작업 등록하면 누락이 생길 수밖에 없다고 보고, 설계서 파일을 파싱해 자동 등록하는 소스를 직접 개발
+
+`#Java #Spring_Boot #Jackson #WebClient #API_Gateway`
 
 </details>
 
 <details>
-<summary><b>✅ LG U+ TTS 프로젝트 — 폐쇄망 배포</b></summary>
+<summary><b>📱 YozmIn (요즘사람) — 트렌드 큐레이션 애플리케이션</b> — 5인 팀 PL</summary>
 
 <br>
 
-폐쇄망·운영망 분리 환경에서 Bastion Host와 OTP 인증 등 내부 보안정책을 준수하며 백엔드를 개발·배포했습니다. 일정 압박 속에서도 취약점 조치를 최소화하자는 의견에, **파라미터 조작 시 실제 접근 가능한 데이터 범위를 요청 흐름으로 정리해 공유** → 서버단 검증과 감사 로그 적재를 함께 반영시켰습니다.
+2025.02 ~ 2025.12 · 5인 팀 · **PL(Project Leader)** · 전체 186 커밋 중 **121 커밋** 담당
+
+- **RAG 기반 챗봇** — 질의를 임베딩으로 벡터화하고 pgvector 유사도 검색으로 관련 문서를 조회해 LLM에 컨텍스트로 전달하는 파이프라인 구성. **"작년 크리스마스" 같은 자연어 시점 표현을 파싱해 검색 조건으로 변환**하는 로직을 직접 구현
+- **LLM · 외부 API 연동** — Gemini API 뉴스 요약, YouTube API 트렌드·쇼츠. 네이버 검색 · TMDB · 카카오맵처럼 성격이 다른 API를 하나의 화면 흐름으로 통합
+- **소셜 로그인** — Google · Kakao OAuth 인증 및 세션·사용자 상태 관리
+- **PL 역할** — 브랜치 전략(develop / feature / bugfix)과 커밋 컨벤션 수립, 공통 컴포넌트 설계·개발, 문서 작성 규칙 정리·공유
+- **자체 보안 점검** — 외부 AI API 토큰이 클라이언트 소스에 하드코딩된 것을 발견해 폐기·재발급하고 호출부를 **서버리스 함수 프록시로 이관**. 저장소에 **시크릿 스캐닝 훅**을 추가해 재발 차단
+
+`#React_Native #Supabase #pgvector #RAG #Gemini #OAuth`
+
+</details>
+
+<details>
+<summary><b>⚙️ WithMe (내 편) — 큐 기반 비동기 처리 백엔드</b> — 개인 프로젝트 (진행 중)</summary>
+
+<br>
+
+사용자의 대화는 실시간으로 응답하면서, 분석·요약·알림은 백그라운드로 밀어내는 구조를 단독 설계했습니다.
+
+```
+Expo App ──SSE── API Server (Express 5)
+                      │ Job 등록
+                      ▼
+               Redis + BullMQ
+                      │
+                      ▼
+               Worker Server
+   memory(2) · summary(2) · mental(2) · push(5)
+```
+
+- **API와 Worker 서버 분리** — 무거운 LLM 작업이 사용자 응답을 막지 않도록 API 서버는 큐에 등록만 하고 처리는 Worker가 담당. Docker Compose로 API·Worker·Redis를 각 컨테이너로 구성
+- **큐별 동시성과 재시도** — LLM 큐는 동시성 2, 가벼운 푸시 큐는 5. 푸시 큐에 **3회 재시도 + 지수 백오프**를 적용하고 완료 작업을 자동 제거해 Redis가 무한히 커지지 않게 처리
+- **인증과 요청 추적** — Supabase JWT 검증 미들웨어를 모든 보호 라우트에 적용, `request-id`로 요청 단위 추적. helmet · CORS · zod 검증과 업로드 제한 적용
+- **SSE 스트리밍 응답** — 응답 전체를 기다리면 체감 지연이 커지므로 토큰이 생성되는 대로 흘려보내 **첫 글자까지의 시간(TTFB)** 단축
+
+`#TypeScript #Node.js #Express #BullMQ #Redis #Docker #OpenAI #JWT`
+
+</details>
+
+---
+
+## 🛡 Security — 개발자 관점의 보안 역량
+
+> 보안 전문가가 되기 위해서가 아닌, **보안을 이해하는 백엔드 개발자**가 되기 위한 과정이었습니다.
+
+**실무에서의 보안 적용**
+
+- **소스코드 취약점 조치** — 정적 분석에서 검출된 Hardcoded Password, Insecure Randomness 등을 조치. 클라이언트에 노출되던 중요 정보를 서버로 이관하고 예측 가능한 난수 로직을 안전한 알고리즘으로 교체
+- **접근 통제** — 컨트롤러 단 권한 검증 추가. 화면에서 버튼을 감추는 것만으로는 API 직접 호출을 막을 수 없기 때문
+- **개인정보 보호** — 전화번호·이메일 마스킹 공통 함수 구현, 수신 동의 철회와 보유기간 만료 시 데이터가 삭제되도록 인터페이스 설계
+- **시크릿 관리** — 하드코딩된 API 토큰을 발견해 폐기하고 서버리스 프록시로 이관, 시크릿 스캐닝 훅으로 재발 차단
+
+<details>
+<summary><b>KISIA 시큐리티아카데미 8기 안랩트랙</b> (2026.06 ~ 09, 진행 중)</summary>
+
+<br>
+
+과학기술정보통신부 주최 · 한국정보보호산업협회(KISIA) 주관
+
+`웹 모의해킹 및 시큐어코딩` `AWS 클라우드 보안` `데이터베이스` `침해사고 대응` `악성코드 분석` `네트워크 보안` `보안관제` `리눅스 심화` `파이썬` `보안 인프라 운영 및 설계`
+
+**실무 멘토링 프로젝트** — 홈페이지 취약점 분석 및 조치 · 안랩 CERT 현직 멘토 지도 · 4인 팀 (2026.08 ~ 09)
+
+- AWS 인스턴스에 취약한 웹 환경 구축 후 **공개 CVE 6종 재현**
+- PoC 확인 후 **로그·세션·패킷 레벨에서 침해 흔적 분석**
+- 소스 수정, 버전 업데이트, 방화벽 정책으로 조치
+- 진단 가이드 체크리스트 기반 **자동 진단 스크립트 작성**
 
 </details>
 
@@ -158,24 +257,17 @@ Nuclei 스캐너와 커스텀 진단 스크립트를 하나의 도구로 묶고,
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=0891b2&icon_color=06b6d4" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&hide_border=true&langs_count=8&title_color=0891b2" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_ID&hide_border=true&ring=0891b2&fire=06b6d4&currStreakLabel=0891b2" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lxxexxbxx&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=0891b2&icon_color=06b6d4" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxxexxbxx&layout=compact&hide_border=true&langs_count=8&title_color=0891b2" />
 
 </div>
 
 ---
 
-## 🔗 Links
-
 <div align="center">
 
-<a href="mailto:bin228555@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="BLOG_URL"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" /></a>
-<a href="NOTION_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
+<a href="mailto:ei228555@gmail.com"><img src="https://img.shields.io/badge/ei228555@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://notion-url-shortener.vercel.app/ToN7Wfl"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
 
 <br><br>
 
