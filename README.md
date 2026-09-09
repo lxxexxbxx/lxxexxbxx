@@ -1,3 +1,4 @@
+<!--
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:0891b2,100:06b6d4&height=210&section=header&text=Lee%20Eunbin&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer&descAlignY=58&descSize=20" width="100%" />
@@ -256,7 +257,6 @@ Expo App ──SSE── API Server (Express 5)
 - **YozmIn (요즘사람)** — RAG 챗봇 기반 트렌드 큐레이션 앱 · `React Native` `pgvector`
 
 ---
--->
 
 ## 🔗 Links
 
